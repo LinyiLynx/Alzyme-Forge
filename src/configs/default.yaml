@@ -1,0 +1,41 @@
+run_name: ""
+preset: default
+paths:
+  train_csv: /Volumes/Lynx/AIGT/原始数据准备/Project_EPP_GT/phase3/data/processed/train_data_strict.csv
+  val_csv: /Volumes/Lynx/AIGT/原始数据准备/Project_EPP_GT/phase3/data/processed/val_data_strict.csv
+  word2vec_path: null
+  legacy_state_dict_path: /Volumes/Lynx/AIGT/原始数据准备/EPPGT/model/model_save/EPPGT_trained.pt
+  save_dir: /Volumes/Lynx/AIGT/EPPGT_repro/artifacts
+model:
+  protein_dim: 100
+  atom_dim: 46
+  hidden_dim: 128
+  num_layers: 12
+  num_heads: 8
+  dropout: 0.1
+word2vec:
+  k: 3
+  vector_size: 100
+  window: 5
+  min_count: 1
+  epochs: 30
+  workers: 4
+train:
+  epochs: 30
+  batch_size_per_gpu: 64
+  optimizer: AdamW
+  lr: 1.0e-4
+  weight_decay: 1.0e-4
+  label_smoothing: 0.1
+  num_workers: 0
+  amp: true
+  seed: 42
+  grad_clip: 1.0
+  scheduler: cosine
+  warmup_epochs: 2
+  early_stop_patience: 5
+runtime:
+  ddp: true
+  device: cuda
+  resume: null
+  log_interval: 10

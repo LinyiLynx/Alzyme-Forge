@@ -1,0 +1,28 @@
+/home/jnz/miniconda3/envs/rdrc-md/lib/python3.11/site-packages/MDAnalysis/coordinates/DCD.py:171: DeprecationWarning: DCDReader currently makes independent timesteps by copying self.ts while other readers update self.ts inplace. This behavior will be changed in 3.0 to be the same as other readers. Read more at https://github.com/MDAnalysis/mdanalysis/issues/3889 to learn if this change in behavior might affect you.
+  warnings.warn("DCDReader currently makes independent timesteps"
+DONE rank137_GWHPBECS040946
+Output: md_analysis_all/candidates/rank137_GWHPBECS040946
+                                                                                  0
+candidate                                                    rank137_GWHPBECS040946
+topology                          neg_fix_v1_top200/rank137_GWHPBECS040946/work/...
+trajectory                        neg_fix_v1_top200/rank137_GWHPBECS040946/outpu...
+ligand_resname                                                                  LIG
+n_atoms                                                                       69254
+n_frames                                                                        200
+sim_ns                                                                          2.0
+protein_atoms                                                                  6900
+ca_atoms                                                                        436
+ligand_atoms                                                                     47
+ca_rmsd_final_A                                                              1.3245
+ca_rmsd_last20pct_mean_A                                                   1.326277
+ca_rmsd_last20pct_std_A                                                    0.055963
+ligand_rmsd_final_A                                                        2.235333
+ligand_rmsd_last20pct_mean_A                                               2.698409
+ligand_rmsd_last20pct_std_A                                                0.270733
+protein_rg_last20pct_mean_A                                               21.873079
+protein_rg_last20pct_std_A                                                 0.033967
+pl_com_distance_last20pct_mean_A                                          12.529716
+pl_min_distance_last20pct_mean_A                                           2.389368
+pl_contacts_4A_last20pct_mean                                                 338.2
+ca_rmsf_mean_A                                                             0.711612
+ca_rmsf_max_A                                                               3.45263

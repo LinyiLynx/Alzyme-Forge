@@ -1,0 +1,21 @@
+{
+  "auroc": 0.7398170314203124,
+  "auprc": 0.722767020139159,
+  "precision": 0.6194731890874883,
+  "recall": 0.9894815927873779,
+  "ranking_group_count": 52.0,
+  "ranking_valid_group_count": 39.0,
+  "ranking_mean_group_size": 51.19230769230769,
+  "ranking_median_group_size": 1.0,
+  "ranking_mean_positive_count": 25.596153846153847,
+  "mrr": 0.8940170940170938,
+  "mean_positive_rank": 1.564102564102564,
+  "mean_group_auroc": 0.811693511706881,
+  "ndcg": 0.958232218621599,
+  "top1_hit": 0.8461538461538461,
+  "top5_hit": 0.9743589743589743,
+  "top10_hit": 0.9743589743589743,
+  "top50_hit": 1.0,
+  "top100_hit": 1.0,
+  "loss": 1.2252356145365806
+}

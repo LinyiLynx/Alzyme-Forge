@@ -1,0 +1,22 @@
+Pending jobs: 10 on GPUs [0, 1, 2, 3]
+rank004_GWHPBECS023846 GPU3: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank004_GWHPBECS023846_gpu3.log
+rank002_GWHPBECS032946 GPU1: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank002_GWHPBECS032946_gpu1.log
+rank003_GWHPBECS031879 GPU2: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank003_GWHPBECS031879_gpu2.log
+rank005_GWHPBECS023836 GPU0: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank005_GWHPBECS023836_gpu0.log
+rank007_GWHPBECS041244 GPU2: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank007_GWHPBECS041244_gpu2.log
+rank006_GWHPBECS024446 GPU1: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank006_GWHPBECS024446_gpu1.log
+rank009_GWHPBECS041263 GPU0: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank009_GWHPBECS041263_gpu0.log
+rank010_GWHPBECS005377 GPU1: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank010_GWHPBECS005377_gpu1.log
+rank008_GWHPBECS005891 GPU3: FAIL(1) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank008_GWHPBECS005891_gpu3.log
+rank001_GWHPBECS001198 GPU0: OK -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank001_GWHPBECS001198_gpu0.log
+Finished 1/10 in 24.1 min
+rank005_GWHPBECS023836 GPU3: OK -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank005_GWHPBECS023836_gpu3.log
+rank006_GWHPBECS024446 GPU0: FAIL(2) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank006_GWHPBECS024446_gpu0.log
+rank007_GWHPBECS041244 GPU1: FAIL(2) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank007_GWHPBECS041244_gpu1.log
+rank008_GWHPBECS005891 GPU2: FAIL(2) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank008_GWHPBECS005891_gpu2.log
+rank009_GWHPBECS041263 GPU3: FAIL(2) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank009_GWHPBECS041263_gpu3.log
+rank010_GWHPBECS005377 GPU0: FAIL(2) -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank010_GWHPBECS005377_gpu0.log
+rank003_GWHPBECS031879 GPU1: OK -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank003_GWHPBECS031879_gpu1.log
+rank004_GWHPBECS023846 GPU2: OK -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank004_GWHPBECS023846_gpu2.log
+rank002_GWHPBECS032946 GPU0: OK -> /home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top10/logs/rank002_GWHPBECS032946_gpu0.log
+Finished 4/9 in 51.1 min

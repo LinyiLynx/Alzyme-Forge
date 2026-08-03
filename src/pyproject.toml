@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eppgt-repro"
+version = "0.1.0"
+description = "Rebuilt EPP-GT training pipeline with train/eval/predict CLIs."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "gensim>=4.3",
+  "numpy>=1.26,<2",
+  "pandas>=2.2",
+  "PyYAML>=6.0",
+  "rdkit>=2022.9",
+  "scikit-learn>=1.5",
+  "torch>=2.3",
+  "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+eppgt-repro = "eppgt_repro.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,22 @@
+
+=== rank123_GWHPBECS010760 GPU 1 2026-06-20 05:21:05 ===
+Atoms: 74204, GPU: 0, prod_ns: 2.0
+Energy minimization...
+NVT 100 ps...
+NPT 100 ps...
+Production 2.0 ns (1000000 steps)...
+{
+  "job_id": "rank123_GWHPBECS010760",
+  "rank": "123",
+  "protein_id": "GWHPBECS010760",
+  "gpu_id": 0,
+  "prod_ns": 2.0,
+  "elapsed_min": 45.509925961494446,
+  "status": "done",
+  "platform": "OpenMM-CUDA",
+  "production_ns": 2.0,
+  "n_atoms": 74204,
+  "trajectory": "/home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top200/rank123_GWHPBECS010760/outputs/prod.dcd",
+  "final_pdb": "/home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top200/rank123_GWHPBECS010760/outputs/final.pdb",
+  "log": "/home/jnz/AIGT_esmc/Gromacs/neg_fix_v1_top200/rank123_GWHPBECS010760/outputs/prod.log"
+}

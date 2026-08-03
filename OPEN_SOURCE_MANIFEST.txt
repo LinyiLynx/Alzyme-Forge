@@ -1,0 +1,41 @@
+AIGT open-source package contents
+=================================
+
+Selected best model
+- Run: 0601 (ESMC + EPP-GT), highest held-out test AUROC among ESMC runs
+- Location: checkpoints/esm_best_auc_0601/
+
+Training code
+- src/                 full eppgt_repro package
+- main.py              CLI entry
+- configs/             extrapolation.yaml (best-run recipe) + server.yaml
+- docs/                training notes
+
+Dataset
+- data/raw/            original CAZy / GT metadata
+- data/splits/         train/val/test for best AUC run
+- data/gt_reference/   GT reference materials
+- data/esmc_embeddings/ precomputed ESMC embeddings required for training
+
+Logs
+- logs/training/train_0601.log
+- checkpoints/esm_best_auc_0601/metrics.csv (per-epoch metrics)
+
+Structure prediction
+- structure_prediction/code/     Boltz multi-GPU pipeline
+- structure_prediction/inputs/
+- structure_prediction/results/  including neg_fix_v1_top200
+- (cache/weights intentionally omitted)
+
+Molecular dynamics
+- molecular_dynamics/code/       OpenMM/MD orchestration
+- molecular_dynamics/mdp/
+- molecular_dynamics/results/top10/
+- molecular_dynamics/results/top200/
+- molecular_dynamics/analysis/
+
+Screening / figures / scripts
+- screening/
+- figures/
+- scripts/dataset/
+- scripts/figures/

@@ -1,0 +1,4 @@
+=== rank008_GWHPBECS005891 GPU 2 ===
+usage: md_worker.py [-h] --job-id JOB_ID --manifest MANIFEST [--gpu GPU]
+                    [--prod-ns PROD_NS]
+md_worker.py: error: the following arguments are required: --manifest

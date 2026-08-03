@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Huge MD trajectories / checkpoint restarts (GitHub 100MB hard limit)
+**/*.dcd
+**/*.xtc
+**/*.trr
+**/*.nc
+**/*.chk
+
+# Intermediate MD topology / restart dumps (multi-GB; keep analysis + code)
+molecular_dynamics/results/
+
+# Precomputed ESMC embedding tensors (~9GB); keep manifest.csv
+data/esmc_embeddings/embeddings/
+
+# Heavy structure-prediction worktrees / MSA dumps (multi-GB)
+structure_prediction/results/**/work/
+structure_prediction/results/**/*.a3m
+structure_prediction/results/**/*.npz
+**/cache/
+
+# OS / editor
+.DS_Store
+*.swp

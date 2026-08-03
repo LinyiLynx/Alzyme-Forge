@@ -1,0 +1,613 @@
+[1/50] rank003_compound_1_GWHPBECS031879
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:53:01] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Generating MSA for /home/jnz/AIGT_esmc/Alphafold/inputs/top200/rank003_compound_1_GWHPBECS031879.yaml with 1 protein entities.
+Calling MSA server for target rank003_compound_1_GWHPBECS031879 with 1 sequences
+MSA server URL: https://api.colabfold.com
+MSA pairing strategy: greedy
+No authentication provided for MSA server
+
+  0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+SUBMIT:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+PENDING:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][ASleeping for 9s. Reason: PENDING
+
+PENDING:   0%|          | 0/150 [elapsed: 00:11 remaining: ?][ASleeping for 6s. Reason: PENDING
+
+RUNNING:   0%|          | 0/150 [elapsed: 00:18 remaining: ?][A
+RUNNING:   4%|▍         | 6/150 [elapsed: 00:18 remaining: 07:13][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:   4%|▍         | 6/150 [elapsed: 00:28 remaining: 07:13][A
+RUNNING:  11%|█         | 16/150 [elapsed: 00:28 remaining: 03:40][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  11%|█         | 16/150 [elapsed: 00:38 remaining: 03:40][A
+RUNNING:  17%|█▋        | 25/150 [elapsed: 00:38 remaining: 02:52][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  17%|█▋        | 25/150 [elapsed: 00:49 remaining: 02:52][A
+RUNNING:  23%|██▎       | 35/150 [elapsed: 00:49 remaining: 02:23][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  23%|██▎       | 35/150 [elapsed: 00:55 remaining: 02:23][A
+RUNNING:  27%|██▋       | 40/150 [elapsed: 00:55 remaining: 02:14][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  27%|██▋       | 40/150 [elapsed: 01:04 remaining: 02:14][A
+RUNNING:  33%|███▎      | 49/150 [elapsed: 01:04 remaining: 01:58][ASleeping for 7s. Reason: RUNNING
+
+RUNNING:  33%|███▎      | 49/150 [elapsed: 01:13 remaining: 01:58][A
+RUNNING:  37%|███▋      | 56/150 [elapsed: 01:13 remaining: 01:51][ASleeping for 6s. Reason: RUNNING
+
+RUNNING:  37%|███▋      | 56/150 [elapsed: 01:20 remaining: 01:51][A
+RUNNING:  41%|████▏     | 62/150 [elapsed: 01:20 remaining: 01:45][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  41%|████▏     | 62/150 [elapsed: 01:32 remaining: 01:45][A
+RUNNING:  48%|████▊     | 72/150 [elapsed: 01:32 remaining: 01:31][ASleeping for 7s. Reason: RUNNING
+
+RUNNING:  48%|████▊     | 72/150 [elapsed: 01:40 remaining: 01:31][A
+RUNNING:  53%|█████▎    | 79/150 [elapsed: 01:40 remaining: 01:24][ASleeping for 6s. Reason: RUNNING
+
+RUNNING:  53%|█████▎    | 79/150 [elapsed: 01:47 remaining: 01:24][A
+RUNNING:  57%|█████▋    | 85/150 [elapsed: 01:47 remaining: 01:17][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  57%|█████▋    | 85/150 [elapsed: 01:53 remaining: 01:17][A
+RUNNING:  60%|██████    | 90/150 [elapsed: 01:53 remaining: 01:11][ASleeping for 6s. Reason: RUNNING
+
+COMPLETE:  60%|██████    | 90/150 [elapsed: 02:00 remaining: 01:11][A
+COMPLETE: 100%|██████████| 150/150 [elapsed: 02:00 remaining: 00:00][ACOMPLETE: 100%|██████████| 150/150 [elapsed: 02:03 remaining: 00:00]
+100%|██████████| 1/1 [02:10<00:00, 130.02s/it]100%|██████████| 1/1 [02:10<00:00, 130.02s/it]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+Running structure prediction for 1 input.
+/home/jnz/miniconda3/envs/colabfold_gpu/lib/python3.10/site-packages/pytorch_lightning/utilities/migration/utils.py:56: The loaded checkpoint was produced with Lightning v2.5.0.post0, which is newer than your current Lightning version: v2.5.0
+You are using a CUDA device ('NVIDIA A100 80GB PCIe') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-06-18 23:55:47.846900: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-06-18 23:55:47.895305: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:55:51] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Predicting: |          | 0/? [00:00<?, ?it/s]Predicting:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0: 100%|██████████| 1/1 [00:34<00:00,  0.03it/s]Number of failed examples: 0
+Predicting DataLoader 0: 100%|██████████| 1/1 [00:34<00:00,  0.03it/s]
+  -> ok in 3.7 min
+[2/50] rank007_compound_1_GWHPBECS041244
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:56:42] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Generating MSA for /home/jnz/AIGT_esmc/Alphafold/inputs/top200/rank007_compound_1_GWHPBECS041244.yaml with 1 protein entities.
+Calling MSA server for target rank007_compound_1_GWHPBECS041244 with 1 sequences
+MSA server URL: https://api.colabfold.com
+MSA pairing strategy: greedy
+No authentication provided for MSA server
+
+  0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+SUBMIT:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+PENDING:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][ASleeping for 5s. Reason: PENDING
+
+RUNNING:   0%|          | 0/150 [elapsed: 00:07 remaining: ?][A
+RUNNING:   3%|▎         | 5/150 [elapsed: 00:07 remaining: 03:28][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:   3%|▎         | 5/150 [elapsed: 00:13 remaining: 03:28][A
+RUNNING:   7%|▋         | 10/150 [elapsed: 00:13 remaining: 03:09][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:   7%|▋         | 10/150 [elapsed: 00:25 remaining: 03:09][A
+RUNNING:  13%|█▎        | 20/150 [elapsed: 00:25 remaining: 02:38][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  13%|█▎        | 20/150 [elapsed: 00:30 remaining: 02:38][A
+RUNNING:  17%|█▋        | 25/150 [elapsed: 00:30 remaining: 02:29][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  17%|█▋        | 25/150 [elapsed: 00:40 remaining: 02:29][A
+RUNNING:  22%|██▏       | 33/150 [elapsed: 00:40 remaining: 02:19][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  22%|██▏       | 33/150 [elapsed: 00:46 remaining: 02:19][A
+RUNNING:  25%|██▌       | 38/150 [elapsed: 00:46 remaining: 02:16][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  25%|██▌       | 38/150 [elapsed: 00:56 remaining: 02:16][A
+RUNNING:  31%|███▏      | 47/150 [elapsed: 00:56 remaining: 01:59][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  31%|███▏      | 47/150 [elapsed: 01:02 remaining: 01:59][A
+RUNNING:  35%|███▍      | 52/150 [elapsed: 01:02 remaining: 01:53][ASleeping for 7s. Reason: RUNNING
+
+RUNNING:  35%|███▍      | 52/150 [elapsed: 01:10 remaining: 01:53][A
+RUNNING:  39%|███▉      | 59/150 [elapsed: 01:10 remaining: 01:46][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  39%|███▉      | 59/150 [elapsed: 01:16 remaining: 01:46][A
+RUNNING:  43%|████▎     | 64/150 [elapsed: 01:16 remaining: 01:40][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  43%|████▎     | 64/150 [elapsed: 01:27 remaining: 01:40][A
+RUNNING:  49%|████▉     | 74/150 [elapsed: 01:27 remaining: 01:27][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  49%|████▉     | 74/150 [elapsed: 01:39 remaining: 01:27][A
+RUNNING:  56%|█████▌    | 84/150 [elapsed: 01:39 remaining: 01:16][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  56%|█████▌    | 84/150 [elapsed: 01:45 remaining: 01:16][A
+RUNNING:  59%|█████▉    | 89/150 [elapsed: 01:45 remaining: 01:12][ASleeping for 5s. Reason: RUNNING
+
+COMPLETE:  59%|█████▉    | 89/150 [elapsed: 01:51 remaining: 01:12][A
+COMPLETE: 100%|██████████| 150/150 [elapsed: 01:51 remaining: 00:00][ACOMPLETE: 100%|██████████| 150/150 [elapsed: 01:54 remaining: 00:00]
+100%|██████████| 1/1 [02:00<00:00, 120.08s/it]100%|██████████| 1/1 [02:00<00:00, 120.08s/it]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+Running structure prediction for 1 input.
+/home/jnz/miniconda3/envs/colabfold_gpu/lib/python3.10/site-packages/pytorch_lightning/utilities/migration/utils.py:56: The loaded checkpoint was produced with Lightning v2.5.0.post0, which is newer than your current Lightning version: v2.5.0
+You are using a CUDA device ('NVIDIA A100 80GB PCIe') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-06-18 23:59:20.185219: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-06-18 23:59:20.236279: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[23:59:24] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Predicting: |          | 0/? [00:00<?, ?it/s]Predicting:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]Number of failed examples: 0
+Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]
+  -> ok in 3.4 min
+[3/50] rank011_compound_1_GWHPBECS041243
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:00:08] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Generating MSA for /home/jnz/AIGT_esmc/Alphafold/inputs/top200/rank011_compound_1_GWHPBECS041243.yaml with 1 protein entities.
+Calling MSA server for target rank011_compound_1_GWHPBECS041243 with 1 sequences
+MSA server URL: https://api.colabfold.com
+MSA pairing strategy: greedy
+No authentication provided for MSA server
+
+  0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+SUBMIT:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+PENDING:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][ASleeping for 5s. Reason: PENDING
+
+RUNNING:   0%|          | 0/150 [elapsed: 00:06 remaining: ?][A
+RUNNING:   3%|▎         | 5/150 [elapsed: 00:06 remaining: 03:07][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:   3%|▎         | 5/150 [elapsed: 00:12 remaining: 03:07][A
+RUNNING:   7%|▋         | 10/150 [elapsed: 00:12 remaining: 03:00][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:   7%|▋         | 10/150 [elapsed: 00:19 remaining: 03:00][A
+RUNNING:  10%|█         | 15/150 [elapsed: 00:19 remaining: 02:54][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  10%|█         | 15/150 [elapsed: 00:25 remaining: 02:54][A
+RUNNING:  13%|█▎        | 20/150 [elapsed: 00:25 remaining: 02:47][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  13%|█▎        | 20/150 [elapsed: 00:34 remaining: 02:47][A
+RUNNING:  19%|█▊        | 28/150 [elapsed: 00:34 remaining: 02:26][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  19%|█▊        | 28/150 [elapsed: 00:44 remaining: 02:26][A
+RUNNING:  24%|██▍       | 36/150 [elapsed: 00:44 remaining: 02:15][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  24%|██▍       | 36/150 [elapsed: 00:54 remaining: 02:15][A
+RUNNING:  31%|███       | 46/150 [elapsed: 00:54 remaining: 01:58][ASleeping for 7s. Reason: RUNNING
+
+RUNNING:  31%|███       | 46/150 [elapsed: 01:03 remaining: 01:58][A
+RUNNING:  35%|███▌      | 53/150 [elapsed: 01:03 remaining: 01:52][ASleeping for 5s. Reason: RUNNING
+
+RUNNING:  35%|███▌      | 53/150 [elapsed: 01:09 remaining: 01:52][A
+RUNNING:  39%|███▊      | 58/150 [elapsed: 01:09 remaining: 01:49][ASleeping for 7s. Reason: RUNNING
+
+RUNNING:  39%|███▊      | 58/150 [elapsed: 01:17 remaining: 01:49][A
+RUNNING:  43%|████▎     | 65/150 [elapsed: 01:17 remaining: 01:38][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  43%|████▎     | 65/150 [elapsed: 01:28 remaining: 01:38][A
+RUNNING:  50%|█████     | 75/150 [elapsed: 01:28 remaining: 01:26][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  50%|█████     | 75/150 [elapsed: 01:37 remaining: 01:26][A
+RUNNING:  55%|█████▌    | 83/150 [elapsed: 01:37 remaining: 01:16][ASleeping for 6s. Reason: RUNNING
+
+RUNNING:  55%|█████▌    | 83/150 [elapsed: 01:45 remaining: 01:16][A
+RUNNING:  59%|█████▉    | 89/150 [elapsed: 01:45 remaining: 01:10][ASleeping for 10s. Reason: RUNNING
+
+COMPLETE:  59%|█████▉    | 89/150 [elapsed: 01:56 remaining: 01:10][A
+COMPLETE: 100%|██████████| 150/150 [elapsed: 01:56 remaining: 00:00][ACOMPLETE: 100%|██████████| 150/150 [elapsed: 01:58 remaining: 00:00]
+100%|██████████| 1/1 [02:04<00:00, 124.47s/it]100%|██████████| 1/1 [02:04<00:00, 124.47s/it]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+Running structure prediction for 1 input.
+/home/jnz/miniconda3/envs/colabfold_gpu/lib/python3.10/site-packages/pytorch_lightning/utilities/migration/utils.py:56: The loaded checkpoint was produced with Lightning v2.5.0.post0, which is newer than your current Lightning version: v2.5.0
+You are using a CUDA device ('NVIDIA A100 80GB PCIe') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-06-19 00:02:48.058696: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-06-19 00:02:48.109920: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:02:52] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Predicting: |          | 0/? [00:00<?, ?it/s]Predicting:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]Number of failed examples: 0
+Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]
+  -> ok in 3.5 min
+[4/50] rank015_compound_1_GWHPBECS041203
+MSA server enabled: https://api.colabfold.com
+MSA server authentication: no credentials provided
+Checking input data.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:03:36] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Processing 1 inputs with 1 threads.
+  0%|          | 0/1 [00:00<?, ?it/s]Generating MSA for /home/jnz/AIGT_esmc/Alphafold/inputs/top200/rank015_compound_1_GWHPBECS041203.yaml with 1 protein entities.
+Calling MSA server for target rank015_compound_1_GWHPBECS041203 with 1 sequences
+MSA server URL: https://api.colabfold.com
+MSA pairing strategy: greedy
+No authentication provided for MSA server
+
+  0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+SUBMIT:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][A
+PENDING:   0%|          | 0/150 [elapsed: 00:00 remaining: ?][ASleeping for 6s. Reason: PENDING
+
+RUNNING:   0%|          | 0/150 [elapsed: 00:07 remaining: ?][A
+RUNNING:   4%|▍         | 6/150 [elapsed: 00:07 remaining: 02:58][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:   4%|▍         | 6/150 [elapsed: 00:18 remaining: 02:58][A
+RUNNING:  11%|█         | 16/150 [elapsed: 00:18 remaining: 02:37][ASleeping for 6s. Reason: RUNNING
+
+RUNNING:  11%|█         | 16/150 [elapsed: 00:26 remaining: 02:37][A
+RUNNING:  15%|█▍        | 22/150 [elapsed: 00:26 remaining: 02:33][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  15%|█▍        | 22/150 [elapsed: 00:35 remaining: 02:33][A
+RUNNING:  20%|██        | 30/150 [elapsed: 00:35 remaining: 02:18][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  20%|██        | 30/150 [elapsed: 00:44 remaining: 02:18][A
+RUNNING:  26%|██▌       | 39/150 [elapsed: 00:44 remaining: 02:04][ASleeping for 10s. Reason: RUNNING
+
+RUNNING:  26%|██▌       | 39/150 [elapsed: 00:56 remaining: 02:04][A
+RUNNING:  33%|███▎      | 49/150 [elapsed: 00:56 remaining: 01:54][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  33%|███▎      | 49/150 [elapsed: 01:05 remaining: 01:54][A
+RUNNING:  38%|███▊      | 57/150 [elapsed: 01:05 remaining: 01:46][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  38%|███▊      | 57/150 [elapsed: 01:15 remaining: 01:46][A
+RUNNING:  44%|████▍     | 66/150 [elapsed: 01:15 remaining: 01:34][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  44%|████▍     | 66/150 [elapsed: 01:28 remaining: 01:34][A
+RUNNING:  49%|████▉     | 74/150 [elapsed: 01:28 remaining: 01:36][ASleeping for 9s. Reason: RUNNING
+
+RUNNING:  49%|████▉     | 74/150 [elapsed: 01:38 remaining: 01:36][A
+RUNNING:  55%|█████▌    | 83/150 [elapsed: 01:38 remaining: 01:22][ASleeping for 8s. Reason: RUNNING
+
+RUNNING:  55%|█████▌    | 83/150 [elapsed: 01:47 remaining: 01:22][A
+RUNNING:  61%|██████    | 91/150 [elapsed: 01:47 remaining: 01:10][ASleeping for 10s. Reason: RUNNING
+
+COMPLETE:  61%|██████    | 91/150 [elapsed: 01:58 remaining: 01:10][A
+COMPLETE: 100%|██████████| 150/150 [elapsed: 01:58 remaining: 00:00][ACOMPLETE: 100%|██████████| 150/150 [elapsed: 02:08 remaining: 00:00]
+100%|██████████| 1/1 [02:14<00:00, 134.81s/it]100%|██████████| 1/1 [02:14<00:00, 134.81s/it]
+Using bfloat16 Automatic Mixed Precision (AMP)
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+Running structure prediction for 1 input.
+/home/jnz/miniconda3/envs/colabfold_gpu/lib/python3.10/site-packages/pytorch_lightning/utilities/migration/utils.py:56: The loaded checkpoint was produced with Lightning v2.5.0.post0, which is newer than your current Lightning version: v2.5.0
+/tmp/tmp_brbjaqo: 行 20: 45122 已终止               python -u /home/jnz/AIGT_esmc/Alphafold/run_boltz_worker.py --queue-csv /home/jnz/AIGT_esmc/Alphafold/results/top200/logs/queue_gpu2.csv --out-dir /home/jnz/AIGT_esmc/Alphafold/results/top200 --model boltz2 --use-msa-server
+You are using a CUDA device ('NVIDIA A100 80GB PCIe') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+2026-06-19 00:06:28.299151: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-06-19 00:06:28.350761: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+[00:06:32] Depickling from a version number (16.2)that is higher than our version (16.1).
+This probably won't work.
+Predicting: |          | 0/? [00:00<?, ?it/s]Predicting:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]Number of failed examples: 0
+Predicting DataLoader 0: 100%|██████████| 1/1 [00:29<00:00,  0.03it/s]

@@ -1,0 +1,61 @@
+run_name: '0601'
+preset: extrapolation
+paths:
+  train_csv: data/train.csv
+  val_csv: data/val.csv
+  word2vec_path: null
+  legacy_state_dict_path: pretrained/model_save/EPPGT_trained.pt
+  save_dir: artifacts
+  external_val_csv: data/test.csv
+model:
+  protein_dim: 1152
+  atom_dim: 46
+  hidden_dim: 128
+  num_layers: 12
+  num_heads: 8
+  dropout: 0.15
+word2vec:
+  k: 3
+  vector_size: 100
+  window: 5
+  min_count: 1
+  epochs: 30
+  workers: 4
+protein_embedding:
+  mode: esmc
+  manifest_path: data/esmc_embeddings/manifest.csv
+  embedding_dir: data/esmc_embeddings/embeddings
+  hash_column: sequence_hash
+  path_column: embedding_path
+  validate_lengths: true
+  cache_embeddings: true
+  cache_size: 256
+train:
+  epochs: 25
+  batch_size_per_gpu: 32
+  optimizer: AdamW
+  lr: 3.0e-05
+  weight_decay: 0.0005
+  label_smoothing: 0.05
+  num_workers: 0
+  amp: true
+  seed: 42
+  grad_clip: 1.0
+  scheduler: cosine
+  warmup_epochs: 2
+  early_stop_patience: 4
+  classification_loss_weight: 0.3
+  ranking_loss_weight: 1.5
+  ranking_margin: 0.3
+  ranking_max_pairs_per_group: 4096
+  substrate_batching: true
+  best_metric: mrr
+  best_metric_source: external
+  finetune_mode: full
+  eval_before_training: false
+runtime:
+  ddp: true
+  device: cuda
+  resume: null
+  log_interval: 10
+  init_checkpoint: null

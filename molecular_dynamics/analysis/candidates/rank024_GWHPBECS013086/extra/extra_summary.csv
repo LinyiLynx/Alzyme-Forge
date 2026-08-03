@@ -1,0 +1,2 @@
+candidate,sim_ns,n_frames,ligand_resname,polar_contacts_last20pct_mean,protein_contacts_last20pct_mean,water_oxygen_contacts_last20pct_mean,pocket_residue_count_last20pct_mean,top_contact_residues
+rank024_GWHPBECS013086,2.0,200,LIG,18.35,394.7,51.525,28.35,THR16;GLN17;GLY18;HIS19;GLY350;SER278;GLN134;THR371;SER353;ASN352;GLN333;LEU279;SER275;GLY277;TRP351
