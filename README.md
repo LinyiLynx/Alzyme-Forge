@@ -102,5 +102,3 @@ To stay within GitHub file-size limits, the following local artifacts are **not*
 - `data/esmc_embeddings/embeddings/` (~9 GB ESMC tensors; `manifest.csv` is kept)
 - `molecular_dynamics/results/` (trajectories / `.dcd` / restart dumps; code, `mdp/`, and `analysis/` are kept)
 - Heavy structure-prediction worktrees / MSA caches under `structure_prediction/results/**/work/`
-
-Keep those directories on the release machine or host them separately (Zenodo / Hugging Face / institutional storage) if you need full binary reproducibility.
